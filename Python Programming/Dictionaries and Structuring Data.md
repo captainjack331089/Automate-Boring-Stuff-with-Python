@@ -83,7 +83,7 @@ Dictionaries are not ordered, so they can't be sliced like lists.
   >>> 'I am bringing ' + str(picnicItems.get('eggs', 0)) + ' eggs.' 'I am bringing 0 eggs.'
   ```
 
-  *if there is no such key or the index of value, the default value 0 is returened by the get() method.*
+  *if there is no such key or the index of value, the default value 0 is returned by the get() method.*
 
 - Setdefault()
 
